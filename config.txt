@@ -1,0 +1,4 @@
+V = 41
+t_transfer = 3
+t_stay = 2
+transfer_file = transfers_time.txt
